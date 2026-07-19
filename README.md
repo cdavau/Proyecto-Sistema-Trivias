@@ -68,6 +68,7 @@ No requiere Composer ni dependencias de PHP externas.
 ---
 
 ## Estructura del proyecto
+```
 sistema_trivias/
 ├── config/         → conexión (Database) y configuración de entorno
 ├── interfaces/     → contratos de los servicios (11 interfaces)
@@ -85,6 +86,7 @@ sistema_trivias/
 ├── includes/       → vistas parciales reutilizables
 ├── assets/         → estilos CSS
 └── .php           → páginas (vistas) y controladores (procesar_.php)
+```
 
 Arquitectura por capas: **Vistas** (páginas `.php`) → **Controladores**
 (`procesar_*.php`) → **Servicios** (lógica de negocio) → **Base de datos**,
