@@ -64,7 +64,7 @@ preguntas_seed.sql       → 80 preguntas de ejemplo (10 por nivel)
 4. Acceder desde el navegador, por ejemplo:
    `http://localhost/sistema_trivias/`
 
-> 📦 **Backup de la base de datos:** los scripts `sistema_trivias_bd.sql`,
+> **Backup de la base de datos:** los scripts `sistema_trivias_bd.sql`,
 > `usuarios_seed.sql` y `preguntas_seed.sql` incluidos en el repositorio
 > contienen la estructura completa y los datos semilla para pruebas rápidas.
 
@@ -112,8 +112,6 @@ y la manipulación se detecta.
 ---
 
 ## 5. Manual de Usuario Operativo
-
-**Video de uso del sistema:** ⟨URL del video⟩
 
 **5.1. Guía Visual (flujo básico):**
 
