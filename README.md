@@ -8,8 +8,8 @@ por temas y niveles de dificultad progresiva, con elementos de gamificación
 
 **Integrantes:** 
 Carlos Abadia 4-823-2233.
-David Cordoba 8-1009-1486
-Ruben Spagnuolo 8-1024-1715
+David Cordoba 8-1009-1486.
+Ruben Spagnuolo 8-1024-1715.
 
 ---
 
@@ -21,7 +21,7 @@ Ruben Spagnuolo 8-1024-1715
 
 ## Tecnologías
 
-- **Backend:** PHP PHP 8.3.28  (orientado a objetos, arquitectura por capas)
+- **Backend:** PHP 8.3.28  (orientado a objetos, arquitectura por capas)
 - **Base de datos:** MySQL 8.4.7 (motor InnoDB, `utf8mb4`)
 - **Acceso a datos:** PDO con sentencias preparadas
 - **Frontend:** HTML5, CSS3, JavaScript, jQuery + DataTables, qrcodejs (vía CDN)
