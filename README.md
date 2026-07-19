@@ -94,8 +94,8 @@ aplicando los principios SOLID.
 
 ## Resumen de requisitos cumplidos
 
-| # | Requisito | Estado |
-|---|-----------|--------|
+| # | Requisito |
+|---|-----------|
 | 1 | Login con control de errores, jQuery DataTable y cédula no editable 
 | 2 | Módulo de usuarios (CRUD) 
 | 3 | CRUD de temas con niveles 
