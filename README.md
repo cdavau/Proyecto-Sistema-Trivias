@@ -46,7 +46,7 @@ frontend (jQuery, DataTables, qrcodejs) se cargan por CDN.
 1. Clonar el repositorio dentro de la carpeta pública del servidor
    (`www` en WAMP o `htdocs` en XAMPP):
 ```bash
-   git clone ⟨URL de GitHub⟩
+   git clone ⟨(https://github.com/cdavau/Proyecto-Sistema-Trivias)⟩
 ```
 
 2. Crear la base de datos importando los scripts **en este orden**
