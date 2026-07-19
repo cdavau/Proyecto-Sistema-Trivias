@@ -127,7 +127,7 @@ y la manipulación se detecta.
    otros jugadores; personaliza tu avatar y califica los temas.
 
 >  El **manual de usuario completo con capturas de pantalla** paso a paso se
-> encuentra en la documentación formal del proyecto (disponible en Moodle) y en el repositorio como archivo .pdf.
+> encuentra como un archivo .pdf aparte de la documentación en el repositorio.
 
 ---
 
