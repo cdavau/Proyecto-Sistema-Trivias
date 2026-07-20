@@ -22,7 +22,7 @@ gamificación (puntos, rankings, avatares y premios).
 
 **1.3. Fecha y Versión:** v1.0.0 — Julio 2026
 
-**1.4. Demostración en Video:** ⟨URL del video (YouTube / Drive)⟩
+**1.4. Demostración en Video:** https://youtu.be/caN-h2x_Y_E?si=58Lu0gdPMk2T9k6g
 
 En el video se sustenta el proyecto, ejecuta el sistema y demuestra el
 funcionamiento real de las pantallas y las validaciones de seguridad (login,
