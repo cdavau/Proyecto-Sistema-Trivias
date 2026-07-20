@@ -76,6 +76,7 @@ preguntas_seed.sql       → 80 preguntas de ejemplo (10 por nivel)
 |----------------|-------------------|------------|-----------------------------|
 | **Administrador** | admin@trivias.com | Admin123* | Control total: gestión de usuarios, temas, preguntas, premios y avatares; reportes y auditoría. |
 | **Jugador** | user@trivias.com | User123* | Jugar trivias, avanzar por niveles, elegir avatar, calificar temas y ver el ranking. |
+| **Armador** | armador@trivias.com | Armador123* | Crea el contenido (temas, preguntas, etc.) |
 
 ---
 
